@@ -18,16 +18,17 @@ docker compose up
 
 ![image](https://github.com/user-attachments/assets/14b8873d-08d1-4690-a8cc-beef9d610d9a)
 
-Протестируем доступные API. Получим полный список терминов, для этого можно обратиться к маршруту /terms
+ Протестируем доступные API. 
+ ## Получим полный список терминов, для этого можно обратиться к маршруту /terms
 
 ![image](https://github.com/user-attachments/assets/f11c27e3-4c88-4264-86a2-fd1428c56b80)
 
-При обращении по адресу /term/{term_name} получаем описание конкретного термина
+## При обращении по адресу /term/{term_name} получаем описание конкретного термина
 
 ![image](https://github.com/user-attachments/assets/2993f6a1-c2c4-4d07-83a2-1529e6a9345d)
 
 
-Протестируем добавление нового термина к списку, воспользуемся возможностями Swagger
+ ## Протестируем добавление нового термина к списку, воспользуемся возможностями Swagger
 
 ![image](https://github.com/user-attachments/assets/ae91cbd3-788a-429a-8d88-b5449ebf54b0)
 
@@ -37,13 +38,13 @@ docker compose up
 
 ![image](https://github.com/user-attachments/assets/ae3ea299-59b4-4fa1-9ab3-28914e781ba0)
 
-Протестируем удаление термина 
+## Протестируем удаление термина 
 
 ![image](https://github.com/user-attachments/assets/9cc81363-d1d2-42d7-aba6-240af5f7ff3f)
 
 ![image](https://github.com/user-attachments/assets/a0c33018-75ee-4039-9ac4-b17d0e081f33)
 
-Протестируем изменение термина
+## Протестируем изменение термина
 
 ![image](https://github.com/user-attachments/assets/2a0241a1-9068-48ae-b284-17cb505c47e2)
 ![image](https://github.com/user-attachments/assets/f31474dc-37b0-4ba0-a377-54347e4ef8ca)
